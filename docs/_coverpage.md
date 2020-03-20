@@ -1,3 +1,3 @@
 # mylog 
 
-love minggongzi
+[love minggongzi](http://www.baidu.com)
